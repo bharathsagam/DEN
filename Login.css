@@ -1,0 +1,74 @@
+ 
+.Log-body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container1 {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    text-align: center;
+}
+
+.large {
+    font-size: 2em;
+    color: #2e07f1;
+}
+
+.lead {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 20px;
+     
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background: #1900ff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #0056b3;
+}
+
+.my-1 {
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+.my-1 a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.my-1 a:hover {
+    text-decoration: underline;
+}
